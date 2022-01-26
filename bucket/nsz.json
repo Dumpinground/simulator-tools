@@ -9,8 +9,16 @@
             "hash": "334178db38b97a5862ed00995ae62246678fa61c84cfdc43b21f1a4fd6866e48"
         }
     },
+    "bin": "nsz.exe",
+    "shortcuts": [
+        [
+            "nsz",
+            "nsz.exe"
+        ]
+    ],
     "checkver": {
-        "github": "https://github.com/nicoboss/nsz"
+        "github": "https://github.com/nicoboss/nsz",
+        "regex": "tag/([\\w.-]+)"
     },
     "autoupdate": {
         "architecture": {
