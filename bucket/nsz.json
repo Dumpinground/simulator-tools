@@ -1,0 +1,14 @@
+{
+    "version": "4.0.1",
+    "homepage": "https://github.com/nicoboss/nsz",
+    "description": "A compression/decompresson script (with optional GUI) that allows user to compress/decompress Nintendo Switch ROMs loselessly",
+    "license": "MIT",
+    "url": "https://github.com/nicoboss/nsz/releases/download/4.0.1/nsz_v4.0.1_win64_portable.zip",
+    "hash": "334178db38b97a5862ed00995ae62246678fa61c84cfdc43b21f1a4fd6866e48",
+    "checkver": {
+        "github": "https://github.com/nicoboss/nsz"
+    },
+    "autoupdate": {
+        "url": "https://github.com/nicoboss/nsz/releases/download/4.0.1/nsz_v$version_win64_portable.zip"
+    }
+}
