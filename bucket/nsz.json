@@ -17,8 +17,7 @@
         ]
     ],
     "checkver": {
-        "github": "https://github.com/nicoboss/nsz",
-        "regex": "tag/([\\w.-]+)"
+        "github": "https://github.com/nicoboss/nsz"
     },
     "autoupdate": {
         "architecture": {
