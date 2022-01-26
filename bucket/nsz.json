@@ -23,7 +23,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://github.com/nicoboss/nsz/releases/download/4.0.1/nsz_v$version_win64_portable.zip"
+                "url": "https://github.com/nicoboss/nsz/releases/download/$version/nsz_v$version_win64_portable.zip"
             }
         }
     }
