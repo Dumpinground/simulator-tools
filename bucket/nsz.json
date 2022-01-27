@@ -9,7 +9,7 @@
             "hash": "334178db38b97a5862ed00995ae62246678fa61c84cfdc43b21f1a4fd6866e48"
         }
     },
-    "bin": "nsz_v4.0.1_win64_portable.zip/nsz.exe",
+    "bin": "nsz_v4.0.1_win64_portable/nsz.exe",
     "checkver": {
         "github": "https://github.com/nicoboss/nsz"
     },
@@ -17,7 +17,7 @@
         "architecture": {
             "64bit": {
                 "url": "https://github.com/nicoboss/nsz/releases/download/$version/nsz_v$version_win64_portable.zip",
-                "bin": "nsz_v$version_win64_portable.zip/nsz.exe"
+                "bin": "nsz_v$version_win64_portable/nsz.exe"
             }
         }
     }
