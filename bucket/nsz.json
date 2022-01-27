@@ -12,8 +12,8 @@
     "bin": "nsz.exe",
     "shortcuts": [
         [
-            "nsz",
-            "nsz.exe"
+            "nsz.exe",
+            "nsz"
         ]
     ],
     "checkver": {
