@@ -10,12 +10,6 @@
         }
     },
     "bin": "nsz.exe",
-    "shortcuts": [
-        [
-            "nsz.exe",
-            "nsz"
-        ]
-    ],
     "checkver": {
         "github": "https://github.com/nicoboss/nsz"
     },
