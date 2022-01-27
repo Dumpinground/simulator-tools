@@ -6,10 +6,7 @@
     "url": "https://github.com/VitaSmith/cdecrypt/releases/download/v4.6/cdecrypt.zip",
     "hash": "0847fce7895db76de46ba721a570c779f233f9905ea1edbb1da09a755a3e8b6d",
     "bin": "cdecrypt.exe",
-    "checkver": {
-        "github": "https://github.com/VitaSmith/cdecrypt",
-        "regex": "\\d+\\.\\d+"
-    },
+    "checkver": "github",
     "autoupdate": {
         "url": "https://github.com/VitaSmith/cdecrypt/releases/download/v$version/cdecrypt.zip"
     }

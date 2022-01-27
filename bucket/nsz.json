@@ -10,9 +10,7 @@
         }
     },
     "bin": "nsz_v4.0.1_win64_portable/nsz.exe",
-    "checkver": {
-        "github": "https://github.com/nicoboss/nsz"
-    },
+    "checkver": "github",
     "autoupdate": {
         "architecture": {
             "64bit": {
