@@ -1,10 +1,10 @@
 {
-    "version": "13.2.0",
+    "version": "13.2.1",
     "homepage": "https://archive.org/details/nintendo-switch-global-firmwares",
     "description": "released Global (Non-China) Firmware for the Nintendo Switch",
     "license": "Unlicense",
-    "url": "https://archive.org/download/nintendo-switch-global-firmwares/Firmware%2013.2.0.zip",
-    "hash": "6376460a9297125b31279b782c7c8b2cb2c0c70f7746b64fbcad794cc2ac3796",
+    "url": "https://archive.org/download/nintendo-switch-global-firmwares/Firmware%2013.2.1.zip",
+    "hash": "249f1c3299e5974ab2912112b8027ad176c454d5ddeec6cdc43b47448460b2a1",
     "checkver": {
         "url": "https://archive.org/download/nintendo-switch-global-firmwares/",
         "regex": "Firmware%20(\\w\\w[\\w.]+).zip",
