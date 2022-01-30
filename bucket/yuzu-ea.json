@@ -17,8 +17,8 @@
         ]
     ],
     "checkver": {
-        "github": "https://github.com/pineappleEA/pineapple-src",
-        "regex": "https://github.com/pineappleEA/pineapple-src/releases/tag/EA-(\\d+)"
+        "url": " https://github.com/pineappleEA/pineapple-src/releases",
+        "regex": "/EA-(\\d+)"
     },
     "autoupdate": {
         "architecture": {
