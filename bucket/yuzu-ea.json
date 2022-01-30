@@ -1,7 +1,7 @@
 {
+    "version": "2447",
     "homepage": "https://github.com/pineappleEA/pineapple-src",
     "description": "Nintendo Switch emulator yuzu early-access version",
-    "version": "2447",
     "license": "GPL-2.0-only",
     "architecture": {
         "64bit": {
