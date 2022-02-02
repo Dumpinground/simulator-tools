@@ -1,12 +1,12 @@
 {
-    "version": "2465",
+    "version": "2466",
     "homepage": "https://github.com/pineappleEA/pineapple-src",
     "description": "Nintendo Switch emulator yuzu early-access version",
     "license": "GPL-2.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/pineappleEA/pineapple-src/releases/download/EA-2465/Windows-Yuzu-EA-2465.7z",
-            "hash": "7f34e0735579e551dc952836f56596a7566dac89e0e883c6419a4f4e1ccc0cd9"
+            "url": "https://github.com/pineappleEA/pineapple-src/releases/download/EA-2466/Windows-Yuzu-EA-2466.7z",
+            "hash": "edb0bb4dc29de9625430d666ea4c4ac294734acbb64bee0afee1884dafa1507a"
         }
     },
     "extract_dir": "yuzu-windows-msvc-early-access",
